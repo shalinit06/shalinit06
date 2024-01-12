@@ -20,3 +20,36 @@ git
 ls
 git init
 exit
+addition function
+sudo snap install addition
+git init
+ls -a
+ls -lrta
+git status
+git add
+git add .
+git commit -m "Your commit message here"
+git log
+git commit -m "Your descriptive commit message"
+git commit -m "Devops demo
+git log
+
+
+git add .lesshst
+
+exec bash
+exec bash
+
+
+source ~/.bashrc
+
+exit
+r
+
+download git:(argo-all-namespacecd gitdemo
+download git:(argo-all-namespace) cd gitdemo
+git update
+sudo apt-get update
+/bin/bash
+./bin/bash
+/bin/bash
